@@ -1,0 +1,4 @@
+class BaseFunctions {
+  BaseFunctions._();
+
+}
